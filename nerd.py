@@ -3,7 +3,7 @@ import sys
 user = input("Enter Username: ")
 ask_continue = input(user + ' do you want to continue?')
 
-# user defined variables
+# user defined variable and lists
 initial_count = 0
 course_taken = []
 course_scores = []
